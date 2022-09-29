@@ -1,2 +1,2 @@
 # Library-Management project
-Using C programming
+Library Management using C programming
